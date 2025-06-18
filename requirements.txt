@@ -17,6 +17,12 @@ pydantic
 # OpenAI
 openai
 
+#Automação
+selenium
+webdriver-manager
+pandas
+openpyxl
+twilio
 
 # Outros utilitários
 ipykernel
