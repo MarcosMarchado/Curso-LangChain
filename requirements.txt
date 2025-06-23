@@ -10,7 +10,7 @@ langchain-chroma
 transformers
 huggingface_hub
 sentence-transformers
-
+datasets
 # Modelagem de dados
 pydantic
 
@@ -37,3 +37,5 @@ beautifulsoup4
 faiss-cpu
 post1
 lark
+
+psycopg2
